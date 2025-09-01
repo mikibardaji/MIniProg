@@ -5,7 +5,7 @@
 
 ## Tutorial Youtube Vàlid
 
-- [Tutorial Youtube](https://www.youtube.com/watch?v=_lOSxm55154)
+- [Tutorial Youtube](https://www.youtube.com/watch?v=PTt6YKkOScM)
 - [Tutorial Youtube 2](https://www.youtube.com/watch?v=zIzLOtZEx1g&list=PLwMWARFV3qSr_B0dIewfvIExuuYogisHP)
 
 ### Exercici interessant 
