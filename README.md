@@ -6,6 +6,7 @@
 ## Tutorial Youtube Vàlid
 
 - [Tutorial Youtube](https://www.youtube.com/watch?v=PTt6YKkOScM)
+  * El primer video, podria ser la primera setmana perfectament.
 - [Tutorial Youtube 2](https://www.youtube.com/watch?v=zIzLOtZEx1g&list=PLwMWARFV3qSr_B0dIewfvIExuuYogisHP)
 
 ### Exercici interessant 
