@@ -5,10 +5,11 @@
 
 ## Tutorial Youtube Vàlid
 
+-[Instal·lació Emulador App Inventor]( https://appinventor.mit.edu/explore/ai2/windows)
 - [Tutorial Youtube](https://www.youtube.com/watch?v=PTt6YKkOScM)
   * El primer video, podria ser la primera setmana perfectament.
     - [redimensionar imatges](https://www.iloveimg.com/es/redimensionar-imagen)
-    - [Sons Gratuis](https://www.sonidosmp3gratis.com)
+    - [Sons Gratuits](https://www.sonidosmp3gratis.com)
   * El segon video, es de ficar imatges i so, esta bé i molt senzill, pero potser s'hauria d'experimentar una mica amb botons. [Aquest es un similar al video](https://appinventor.mit.edu/explore/ai2/hellopurr)
 - [Tutorial Youtube 2](https://www.youtube.com/watch?v=zIzLOtZEx1g&list=PLwMWARFV3qSr_B0dIewfvIExuuYogisHP)
 
