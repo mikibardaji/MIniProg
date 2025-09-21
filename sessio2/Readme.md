@@ -27,7 +27,7 @@ Al apartat Math hi ha un altre bloc que ens permet fer mes condicions logiques, 
 
 En aquest cas, tenim una variable que inicialment esta a true, i al arribar al if es valora la condició amb el operador de igualtat (=), com en aquest cas la variable es true i la condició que es pregunta es si es true, s'executa els codis que hi ha dins el then:
 
-<img src="exempleIf.JPG" alt="Exemple If" width="300px">
+<img src="exempleIf.JPG" alt="Exemple If" width="100%">
 
 · El label es pinta de color rosa
 · El boto2 es desactiva.
