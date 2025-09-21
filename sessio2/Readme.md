@@ -1,6 +1,12 @@
 # SESSIÓ DOS
 
-En aquesta sessió començarem a veure estructures de control condicionals, per realitzar una acció i una altra. Apart veurem com crear dues pantalles i navegar entre elles.
+En aquesta sessió veurem el següent.
+
+# Índex
+
+- [Estructures condicionals](#Estructures Condicionals)
+- [App amb dues pantalles](#2 pantalles)
+- [Activar i desactivar controls/visibles e invisibles](#desactivar)
 
 
 ## Estructures Condicionals
@@ -38,3 +44,6 @@ A més en aquest cas, canviem el valor de la variable a false.
 El segon cop que apretarem el botó, la condició com ja val false, la condició no sera certa i es realitzarà la opció else, que pinta la label de blau, i activa el botó.
 També tornem a canviar la variable a true.
 
+
+
+## 2 pantalles
