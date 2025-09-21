@@ -4,7 +4,7 @@ En aquesta sessió veurem el següent.
 
 # Índex
 
-- [Estructures condicionals](#Estructures Condicionals)
+- [Estructures condicionals](#Condicionals)
 - [App amb dues pantalles](#2 pantalles)
 - [Activar i desactivar controls/visibles e invisibles](#desactivar)
 
