@@ -4,8 +4,8 @@ En aquesta sessió veurem el següent.
 
 # Índex
 
-- [Estructures condicionals](#Condicionals)
-- [App amb dues pantalles](#2 pantalles)
+- [Estructures condicionals](#estructures-condicionals)
+- [App amb dues pantalles](#app-amb-dues-pantalles)
 - [Activar i desactivar controls/visibles e invisibles](#desactivar)
 
 
@@ -46,4 +46,4 @@ També tornem a canviar la variable a true.
 
 
 
-## 2 pantalles
+## App amb dues pantalles
