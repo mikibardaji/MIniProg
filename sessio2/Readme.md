@@ -12,7 +12,7 @@ Són estructures que permeten executar una part del codi (blocs) o una altra en 
 
 Les condicions que s'uneixen a la part del if, les trobem al apartat Built-in--> Logic
 
-![Operadors Logics dins un if](operadorsLogics.JPG)
+<img src="operadorsLogics.JPG" alt="Operadors Logics dins un if" width="300px">
 
 I basicament son estructures per comparar una variable amb un valor o amb un altra variable...
 
@@ -22,12 +22,12 @@ I son condicions que retornen un valor true/false, després d'evaluar l'expresi�
 
 Al apartat Math hi ha un altre bloc que ens permet fer mes condicions logiques, menor, major que , igual o major... 
 
-![Operadors Logics dins un if MAth](operadorsLogics2.JPG)
+<img src="operadorsLogics2.JPG" alt="Operadors Logics dins un if MAth" width="300px">
 
 
 En aquest cas, tenim una variable que inicialment esta a true, i al arribar al if es valora la condició amb el operador de igualtat (=), com en aquest cas la variable es true i la condició que es pregunta es si es true, s'executa els codis que hi ha dins el then:
 
-![Exemple If](exempleIf.JPG)
+<img src="exempleIf.JPG" alt="Exemple If" width="300px">
 
 · El label es pinta de color rosa
 · El boto2 es desactiva.
