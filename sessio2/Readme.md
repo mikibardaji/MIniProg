@@ -18,84 +18,77 @@ Són estructures que permeten executar una part del codi (blocs) o una altra en 
   <img src="blockif.JPG" alt="Block condicional if" width="300px">
 </p>
 
-Les condicions que s'uneixen a la part del if, les trobem al apartat Built-in--> Logic
+Les condicions que s'uneixen a la part del `if` les trobem a l'apartat Built-in → Logic.
 
 <p align="center">
 <img src="operadorsLogics.JPG" alt="Operadors Logics dins un if" width="300px" style="display: block; margin: auto;">
 </p>
-I basicament son estructures per comparar una variable amb un valor o amb un altra variable...
 
+Bàsicament, són estructures que comparen una variable amb un valor o amb una altra variable.
 
-I son condicions que retornen un valor true/false, després d'evaluar l'expresió.
+Aquestes condicions retornen un valor **true** o **false**, després d’avaluar l'expressió.
 
-
-Al apartat Math hi ha un altre bloc que ens permet fer mes condicions logiques, menor, major que , igual o major... 
+A l'apartat **Math** hi ha altres blocs que permeten fer condicions lògiques com "menor que", "major que", "igual o major que"...
 
 <p align="center">
 <img src="operadorsLogics2.JPG" alt="Operadors Logics dins un if MAth" width="300px" style="display: block; margin: auto;">
 </p>
 
-En aquest cas, tenim una variable que inicialment esta a true, i al arribar al if es valora la condició amb el operador de igualtat (=), com en aquest cas la variable es true i la condició que es pregunta es si es true, s'executa els codis que hi ha dins el then:
+En aquest cas, tenim una variable que inicialment està a `true`, i quan arriba al `if` es comprova la condició amb l'operador d'igualtat (`=`). Com que la variable és `true` i la condició també ho és, s’executen les instruccions que hi ha dins el bloc `then`:
 
 <p align="center">
 <img src="exempleIf.JPG" alt="Exemple If" width="100%" style="display: block; margin: auto;">
 </p>
 
-· El label es pinta de color rosa
-· El boto2 es desactiva.
+- El `Label` es pinta de color rosa  
+- El `Botó2` es desactiva
 
+A més, en aquest cas, canviem el valor de la variable a `false`.
 
-A més en aquest cas, canviem el valor de la variable a false.
+El segon cop que premem el botó, la condició ja no és certa (la variable val `false`), i per tant es realitza l’opció del `else`, que pinta el `Label` de color blau i activa el botó.
 
-El segon cop que apretarem el botó, la condició com ja val false, la condició no sera certa i es realitzarà la opció else, que pinta la label de blau, i activa el botó.
-També tornem a canviar la variable a true.
+També tornem a canviar la variable a `true`.
+
+---
 
 ## Llistes
 
-Un altre element important, son les llistes. Les llistes serveixen per posar multiples valors, junts, que es poden mostrar en una label o en altres components mes potents d'app inventor.
+Un altre element important són les **llistes**. Les llistes serveixen per guardar múltiples valors junts, que es poden mostrar en un `Label` o en altres components més potents d’App Inventor.
 
+Per mostrar una llista amb un component com el `ListView`, cal tenir aquest component a la pantalla. El `ListView` ens mostra tots els elements de la llista, un per un.
 
+Un esdeveniment important del `ListView` és el **`AfterPicking`**, que serveix per saber quin element ha seleccionat l'usuari.
 
-Per mostrar-ho amb un component com el ListView, cal tenir el component a la pantalla. El listView ens mostra tots els components 1 a 1.
-
-
-
-Un event important del ListView i que serveix per saber quin element ha apretat el usuari, es el listSelection.
-
-
+---
 
 ## App amb dues pantalles
 
+En aquest apartat veurem com obrir una nova pantalla des de la pantalla principal.
 
-En aquest apartat veurem com cridar una nova pantalla desde la pantalla principal.
+Aprofitarem el codi d’[exemple](exempleif.JPG) anterior.
 
-Aprofitarem el codi d'[exemple](exempleif.JPG) del anterior.
+Farem que el segon botó, el que activàvem i desactivàvem, ens porti a una segona pantalla. I des d’aquesta, amb un altre botó, tanqui la pantalla i torni a la principal.
 
-Farem que el segon botó, el que activavem i desactivavem, ens porti a una segona pantalla i despres desde la segona, amb un altre botó tanqui aquella pantalla i torni a la principal.
-
-Primer de tot al editor de blocks, crearem una nova pantalla, anomenada Pantalla2
+Primer de tot, a l’editor de blocs, crearem una nova pantalla anomenada **Pantalla2**.
 
 <p align="center">
 <img src="crearPantalla.jpg" alt="Crear Pantalla" width="500px" style="display: block; margin: auto;">
 </p>
 
-
-A la pantalla2 li crearem una etiqueta i un botó
+A la `Pantalla2`, li afegirem una etiqueta i un botó.
 
 <p align="center">
 <img src="pantalla2.jpg" alt="pantalla2" width="500px" style="display: block; margin: auto;">
 </p>
 
-I ara al block d'aquesta pantalla, ficarem que quant s'apretí el botó es tanqui la pantalla
+Ara, als blocs d’aquesta pantalla, indicarem que quan es premi el botó, es tanqui la pantalla:
 
 <p align="center">
 <img src="codiPantalla2.jpg" alt="Codi pantalla2" width="500px" style="display: block; margin: auto;">
 </p>
 
-I al block primer d'aquesta pantalla ficarem el codi per llançar una nova pantalla
+I als blocs de la pantalla principal, afegirem el codi per **obrir la nova pantalla**:
 
 <p align="center">
 <img src="codiPantalla1.jpg" alt="Codi pantalla1" width="500px" style="display: block; margin: auto;">
 </p>
-
-
