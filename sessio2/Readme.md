@@ -5,6 +5,7 @@ En aquesta sessió veurem el següent.
 # Índex
 
 - [Estructures condicionals](#estructures-condicionals)
+- [Llistes i ListView](#Llistes)
 - [App amb dues pantalles](#app-amb-dues-pantalles)
 - [Activar i desactivar controls/visibles e invisibles](#desactivar)
 
@@ -48,6 +49,18 @@ A més en aquest cas, canviem el valor de la variable a false.
 
 El segon cop que apretarem el botó, la condició com ja val false, la condició no sera certa i es realitzarà la opció else, que pinta la label de blau, i activa el botó.
 També tornem a canviar la variable a true.
+
+## Llistes
+
+Un altre element important, son les llistes. Les llistes serveixen per posar multiples valors, junts, que es poden mostrar en una label o en altres components mes potents d'app inventor.
+
+
+
+Per mostrar-ho amb un component com el ListView, cal tenir el component a la pantalla. El listView ens mostra tots els components 1 a 1.
+
+
+
+Un event important del ListView i que serveix per saber quin element ha apretat el usuari, es el listSelection.
 
 
 
