@@ -7,7 +7,7 @@ En aquesta sessió començarem a veure estructures de control condicionals, per 
 
 Són estructures que permeten executar una part del codi (blocs) o una altra en funció de certes condicions lògiques.
 
-<img src="blockif.jpg" alt="Block condicional if" width="300px">
+<img src="blockif.JPG" alt="Block condicional if" width="300px">
 
 
 Les condicions que s'uneixen a la part del if, les trobem al apartat Built-in--> Logic
