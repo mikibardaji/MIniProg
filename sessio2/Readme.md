@@ -58,6 +58,31 @@ En aquest apartat veurem com cridar una nova pantalla desde la pantalla principa
 
 Aprofitarem el codi d'[exemple](exempleif.JPG) del anterior.
 
+Farem que el segon botó, el que activavem i desactivavem, ens porti a una segona pantalla i despres desde la segona, amb un altre botó tanqui aquella pantalla i torni a la principal.
+
 Primer de tot al editor de blocks, crearem una nova pantalla, anomenada Pantalla2
+
+<p align="center">
+<img src="crearPantalla.jpg" alt="Crear Pantalla" width="500px" style="display: block; margin: auto;">
+</p>
+
+
+A la pantalla2 li crearem una etiqueta i un botó
+
+<p align="center">
+<img src="pantalla2.jpg" alt="pantalla2" width="500px" style="display: block; margin: auto;">
+</p>
+
+I ara al block d'aquesta pantalla, ficarem que quant s'apretí el botó es tanqui la pantalla
+
+<p align="center">
+<img src="codiPantalla2.jpg" alt="Codi pantalla2" width="500px" style="display: block; margin: auto;">
+</p>
+
+I al block primer d'aquesta pantalla ficarem el codi per llançar una nova pantalla
+
+<p align="center">
+<img src="codiPantalla1.jpg" alt="Codi pantalla1" width="500px" style="display: block; margin: auto;">
+</p>
 
 
