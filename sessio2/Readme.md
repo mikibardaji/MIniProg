@@ -7,12 +7,13 @@ En aquesta sessió començarem a veure estructures de control condicionals, per 
 
 Són estructures que permeten executar una part del codi (blocs) o una altra en funció de certes condicions lògiques.
 
+![Block condicional if](blockif.jpg)
 
 
 
 Les condicions que s'uneixen a la part del if, les trobem al apartat Built-in--> Logic
 
-
+![Operadors Logics dins un if](operadorsLogics.jpg)
 
 I basicament son estructures per comparar una variable amb un valor o amb un altra variable...
 
@@ -22,7 +23,7 @@ I son condicions que retornen un valor true/false, després d'evaluar l'expresi�
 
 Al apartat Math hi ha un altre bloc que ens permet fer mes condicions logiques, menor, major que , igual o major... 
 
-
+![Operadors Logics dins un if MAth](operadorsLogics2.jpg)
 
 
 En aquest cas, tenim una variable que inicialment esta a true, i al arribar al if es valora la condició amb el operador de igualtat (=), com en aquest cas la variable es true i la condició que es pregunta es si es true, s'executa els codis que hi ha dins el then:
