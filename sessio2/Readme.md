@@ -52,3 +52,12 @@ També tornem a canviar la variable a true.
 
 
 ## App amb dues pantalles
+
+
+En aquest apartat veurem com cridar una nova pantalla desde la pantalla principal.
+
+Aprofitarem el codi d'[exemple](exempleif.JPG) del anterior.
+
+Primer de tot al editor de blocks, crearem una nova pantalla, anomenada Pantalla2
+
+
