@@ -6,7 +6,7 @@ En aquesta sessió veurem el següent.
 
 - [Estructures condicionals](#estructures-condicionals)
 - [Llistes i ListView](#Llistes)
-- [App amb dues pantalles](#app-amb-dues-pantalles)
+- [App amb dues pantalles](2pantalles.md)
 - [Activar i desactivar controls/visibles e invisibles](#desactivar)
 
 
