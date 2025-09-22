@@ -20,10 +20,10 @@ Imagina que tenim aquests components a la pantalla:
 
 Al començar, l'etiqueta està amagada.
 
-### 🟢 Quan premem el botó, volem que aparegui l’etiqueta.
+### 🟢 Quan premem el botó, volem que aparegui l’etiqueta i el tornem a apretar desapareix.
 
 ### 🔷 Blocs de codi:
 
-```blocks
-Quan BotóMostrar.Clic
-    posar EtiquetaSecret.Visible a cert
+<p align="center">
+<img src="visible.jpg" alt="Visible e Invisible" width="500px" style="display: block; margin: auto;">
+</p>
