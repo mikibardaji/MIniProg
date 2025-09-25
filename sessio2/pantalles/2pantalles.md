@@ -29,3 +29,5 @@ I als blocs de la pantalla principal, afegirem el codi per **obrir la nova panta
 <p align="center">
 <img src="codiPantalla1.jpg" alt="Codi pantalla1" width="500px" style="display: block; margin: auto;">
 </p>
+
+####  [Tornar](../Readme.md)
