@@ -30,11 +30,15 @@ En aquest cas, tenim una variable que inicialment està a `true`, i quan arriba 
 
 - El `Label` es pinta de color rosa  
 - El `Botó2` es desactiva
+- A més, en aquest cas, canviem el valor de la variable a `false`.
 
-A més, en aquest cas, canviem el valor de la variable a `false`.
+El segon cop que premem el botó, la condició ja no és certa (la variable val `false`), i per tant es realitza l’opció del `else`:
+- que pinta el `Label` de color blau
+- activa el botó.
+- Tornar a activar la variable (true)
 
-El segon cop que premem el botó, la condició ja no és certa (la variable val `false`), i per tant es realitza l’opció del `else`, que pinta el `Label` de color blau i activa el botó.
-
-També tornem a canviar la variable a `true`.
 
 ---
+
+####  [Tornar](../Readme.md)
+
