@@ -13,3 +13,5 @@ Per mostrar una llista amb un component com el `ListView`, cal tenir aquest comp
 </p>
 
 Un esdeveniment important del `ListView` és el **`AfterPicking`**, que serveix per saber quin element ha seleccionat l'usuari.
+
+####  [Tornar](../Readme.md)
