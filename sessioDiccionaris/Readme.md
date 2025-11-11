@@ -83,16 +83,15 @@ El JSON és el format que usen les apps reals per compartir dades.
 </center>
 
   
-* Crear una variable local dictionary per exemple `local_alumne` inicialment a `empty dictionary` e, informar Tots els camps amb dictionari LOCAL, després passar-lo a la llista.
+* Crear una variable local dictionary per exemple `local_alumne` inicialment a `empty dictionary` e, informar tots els camps a la variable local DICTIONARy.
+* Després passar-lo a la llista.
 
 <center>
       <img src="botoMostrarLlistaDictionaris.PNG" alt="Boto Guardar Codi" >
 </center>
 
-[Imatge dels blocs d'App Inventor per a l'extensió opcional (crear local_alumne)]
 
 * Despres `add items to list (llista Alumnes, local_alumne)`
 
-[Imatge dels blocs d'App Inventor per "add items to list"]
 
 * Això equival a tenir una taula de base de dades amb diversos alumnes.
