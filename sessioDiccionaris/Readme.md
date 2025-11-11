@@ -27,9 +27,9 @@ Components principals:
 * Label (IblResultat): resultat final
 * Label (IblJson): resultat final
 
-<div style="text-align: center;">
-  <img src="pantallaDiccionari.PNG" alt="Disseny pantalla">
-</div>
+<center>
+<img src="pantallaDiccionari.PNG" alt="Text alternatiu" >
+</center>
 
 ## Crear el diccionari
 
@@ -42,7 +42,9 @@ Components principals:
 * `call dictionary set value (dicAlumne, 'edat', txtEdat.Text)`
 * `call dictionary set value (dicAlumne, 'curs', txtCurs.Text)`
 
-[Imatge dels blocs d'App Inventor per "Crear el diccionari"]
+<center>
+<img src="botoGuardar.png" alt="Boto Guardar Codi" >
+</center>
 
 ## Mostrar les dades
 
@@ -53,13 +55,20 @@ Components principals:
     `'Curs: ' + dictionary lookup(dicAlumne, 'curs', '')`
     `)`
 
+<center>
+<img src="botoMostrar.png" alt="Boto Guardar Codi" >
+</center>
+
+
 ## Versió avançada: format JSON
 
-Afegim un nou botó (btnJSON): 'Mostrar en format JSON'
-* **Bloc del botó:**
-    * `set IblResultat.Text to call dictionary to JSON text(dicAlumne)`
-* **Resultat:**
-    * `{'nom':'Laura','edat':'18', 'curs':'2n SMX'}`
+Afegir un label (lblJson): Per veure com es poden guardar amb un format mundialment reconegut.
+
+Al mateix boto Mostrar, es passara el dictionary a aquesta Jlabel
+
+<center>
+<img src="mostrarJson.png" alt="Boto Guardar Codi" >
+</center>
 
 El JSON és el format que usen les apps reals per compartir dades.
 
