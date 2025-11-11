@@ -43,7 +43,7 @@ Components principals:
 * `call dictionary set value (dicAlumne, 'curs', txtCurs.Text)`
 
 <center>
-<img src="botoGuardar.png" alt="Boto Guardar Codi" >
+<img src="botoGuardar.PNG" alt="Boto Guardar Codi" >
 </center>
 
 ## Mostrar les dades
@@ -56,7 +56,7 @@ Components principals:
     `)`
 
 <center>
-<img src="botoMostrar.png" alt="Boto Guardar Codi" >
+<img src="botoMostrar.PNG" alt="Boto Guardar Codi" >
 </center>
 
 
@@ -67,7 +67,7 @@ Afegir un label (lblJson): Per veure com es poden guardar amb un format mundialm
 Al mateix boto Mostrar, es passara el dictionary a aquesta Jlabel
 
 <center>
-<img src="mostrarJson.png" alt="Boto Guardar Codi" >
+<img src="mostrarJson.PNG" alt="Boto Guardar Codi" >
 </center>
 
 El JSON és el format que usen les apps reals per compartir dades.
