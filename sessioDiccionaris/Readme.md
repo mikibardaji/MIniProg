@@ -75,9 +75,19 @@ El JSON és el format que usen les apps reals per compartir dades.
 ## Extensió opcional
 
 * **Guardar diversos alumnes en una llista de diccionaris:**
-* `initialize global diccionari_alumnes to create empty list`
+* `initialize global diccionari_alumnes to create empty dictionary`
 * `initialize global llistaAlumnes to create empty list.`
-* Crear una variable local dictionary per exemple `local_alumne` inicialment a `empty dictionary` e, informar Tots els camps amb dictionari
+
+<center>
+      <img src="llistaalumnes.PNG" alt="Boto Guardar Codi" >
+</center>
+
+  
+* Crear una variable local dictionary per exemple `local_alumne` inicialment a `empty dictionary` e, informar Tots els camps amb dictionari LOCAL, després passar-lo a la llista.
+
+<center>
+      <img src="botoMostrarLlistaDictionaris.PNG" alt="Boto Guardar Codi" >
+</center>
 
 [Imatge dels blocs d'App Inventor per a l'extensió opcional (crear local_alumne)]
 
