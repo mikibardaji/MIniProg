@@ -28,7 +28,7 @@ Components principals:
 * Label (IblJson): resultat final
 
 <div style="text-align: center;">
-  <img src="pantalla.png" alt="Disseny pantalla">
+  <img src="pantallaDiccionari.PNG" alt="Disseny pantalla">
 </div>
 
 ## Crear el diccionari
