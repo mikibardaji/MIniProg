@@ -31,6 +31,9 @@ Components principals:
 <img src="pantallaDiccionari.PNG" alt="Text alternatiu" >
 </center>
 
+Per no perdre temps tot partirem d'aquest esquelet buit <a href="diccionari_buit.aia" download>Descarregar la pantalla</a>
+
+
 ## Crear el diccionari
 
 **Variable global:**
