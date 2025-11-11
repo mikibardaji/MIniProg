@@ -31,7 +31,7 @@ Components principals:
 <img src="pantallaDiccionari.PNG" alt="Text alternatiu" >
 </center>
 
-Per no perdre temps tot partirem d'aquest esquelet buit <a href="https://github.com/mikibardaji/MIniProg/blob/main/sessioDiccionaris/Diccionari_buit.aia" download>Descarregar la pantalla</a>
+Per no perdre temps tot partirem d'aquest esquelet buit <a href="https://raw.githubusercontent.com/mikibardaji/MIniProg/main/sessioDiccionaris/Diccionari_buit.aia" download>Descarregar la pantalla</a>
 
 
 ## Crear el diccionari
